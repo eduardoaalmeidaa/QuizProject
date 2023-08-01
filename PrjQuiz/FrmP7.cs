@@ -30,7 +30,7 @@ namespace PrjQuiz
             }
             else if (radioButton2.Checked || radioButton3.Checked || radioButton4.Checked)
             {
-                MessageBox.Show("Incorreto!", "QUIZ", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Incorreto! A Resposta era " + rbtnCerta.Text, "QUIZ", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 //somar na variavel Global erros
                 VariaveisGlobais.Erros += 1;
                 FrmP8 p8 = new FrmP8();
