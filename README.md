@@ -1,4 +1,4 @@
-# Quiz em C#
+# Quiz
 
 Este é um projeto em C# que visa testar seus conhecimentos sobre temas relacionados à tecnologia. O programa irá apresentar uma série de perguntas de múltipla escolha, e você deve selecionar a opção correta. No final do quiz, você receberá sua pontuação e o número de perguntas que você respondeu corretamente e respostas erradas.
 
