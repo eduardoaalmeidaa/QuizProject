@@ -24,4 +24,4 @@ Agora que você tem o arquivo executável, siga os passos abaixo para executar o
 ![image](https://github.com/eduardoaalmeidaa/QuizProject/assets/89856553/c7b4c80a-8111-40b7-b789-a9d6d4722b2e)
 ![image](https://github.com/eduardoaalmeidaa/QuizProject/assets/89856553/6c5f072d-a58d-4885-aadf-dc56e12a83c5)
 
-### Siga-me no Linkedin : linkedin.com/in/eduardoaalmeidaa
+### Siga-me no Linkedin : https://www.linkedin.com/in/eduardoaalmeidaa/
